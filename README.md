@@ -117,8 +117,8 @@ Want to improve this project?
 
 ## 📩 **Contact**  
 For any questions, reach out via:  
-📧 **Email:** `your-email@example.com`  
-🐙 **GitHub:** [your-username](https://github.com/your-username)  
+📧 **Email:** `madhumitap797@gmail.com`  
+🐙 **GitHub:** Madhumgithub(https://github.com/Madhumgithub)  
 
 ---
 
